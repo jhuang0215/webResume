@@ -1,2 +1,2 @@
 # webResume
-Web resume/portfolio 
+Web resume/portfolio to practice making a website.
